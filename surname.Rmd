@@ -22,6 +22,8 @@ output:
 
 ## D
 
+- DataTrail team
+    - [DataTrail - Forming Questions](DataTrail_01_Forming_Questions.html)
 - David Duncan
     - [ConoceR](conocer.html)
 
@@ -34,18 +36,18 @@ output:
 
 - Kosuke Imai
     - [qss-swirl](qss.html)
-    
+
 ## K
 
 - Sean Kross
     - [Google Forms Course](gfc.html)
 
 ## P
-    
+
 - Roger Peng
     - [The R Programming Environment](rpe.html)
     - [Advanced R Programming](arp.html)
-    
+
 ## R
 
 - RLab-Team
@@ -59,7 +61,7 @@ output:
     - [MARSYS Data analysis with R](MARSYS_Data_analysis_with_R.html)
     - [MARSYS Statistik und Programmierung mit R](MARSYS_Statistik_und_Programmierung_mit_R.html)
     - [R-Grundlagen](R-Grundlagen.html)
-    
+
 ## S
 
 - José R Sosa
